@@ -9,6 +9,10 @@
     "express": "2.x.x",
     "ejs": "0.7.2",
     "solr-client":"0.2.4"
+  }, 
+  "engines": {
+    "node": "0.8.14",
+    "npm": "1.1.65"
   },
   "author": "Justin Slamka",
   "license": "BSD"
