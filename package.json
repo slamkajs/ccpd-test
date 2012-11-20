@@ -6,9 +6,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "express": "latest",
-    "ejs": "latest",
-    "solr-client":"latest"
+    "express": "3.x.x",
+    "ejs": "*",
+    "solr-client":"*"
   }, 
   "engines": {
     "node": "0.8.14",
