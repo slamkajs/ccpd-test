@@ -6,13 +6,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "express": "3.x.x",
-    "ejs": "*",
-    "solr-client":"*"
+    "express": "2.x.x",
+    "ejs": "0.7.2",
+    "solr-client":"0.2.4"
   }, 
   "engines": {
-    "node": "0.8.14",
-    "npm": "1.1.65"
+      "node": "0.6.13",
+      "npm": "1.1.41"
   },
   "author": "Justin Slamka",
   "license": "BSD"
